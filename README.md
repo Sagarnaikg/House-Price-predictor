@@ -5,4 +5,4 @@ ML regression model project to predict house price.
 1.Python \
 2.Sklearn ml framework \
 3.Matplotlib graph library \
-4.Numpy for math functions \
+4.Numpy for math functions 
